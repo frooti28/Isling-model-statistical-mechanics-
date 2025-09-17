@@ -4,4 +4,6 @@
 - decided to revise probablitity from class 11 and 12 before reading more about it
 - simultaneously reading introductory texts on statistical physics
 
-
+17/09/25
+- revised probability from class 11 and 12
+- started reading the chapter on probability and statistics from 'Mathematical Methods in the Physical Sciences' by Boas
