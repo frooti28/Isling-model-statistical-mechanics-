@@ -7,3 +7,7 @@
 17/09/25
 - revised probability from class 11 and 12
 - started reading the chapter on probability and statistics from 'Mathematical Methods in the Physical Sciences' by Boas
+
+20/09/25
+- read about the axiomatic definition of probability, conditional probability, Bayes' theorem and distributions
+- started reading an introductory book on statistical mechanics
