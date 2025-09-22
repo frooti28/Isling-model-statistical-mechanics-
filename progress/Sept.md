@@ -11,3 +11,9 @@
 20/09/25
 - read about the axiomatic definition of probability, conditional probability, Bayes' theorem and distributions
 - started reading an introductory book on statistical mechanics
+
+21/09/25
+-tried to plot graphs for a probability problem
+
+22/09/25
+-started watching the lectures on statistical mechanics by Leonard Susskind on YouTube
